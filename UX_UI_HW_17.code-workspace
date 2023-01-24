@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../My Code"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "UX_UI_HW_17"
+	}
+}

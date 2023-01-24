@@ -17,6 +17,10 @@
     margin-left: auto;
     display: inline-block;
     vertical-align: top;
+    padding: 20px;
+}
+.li {
+    margin: 20px;
 }
 .heroImg {
     height: 600px;

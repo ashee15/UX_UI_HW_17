@@ -1,3 +1,8 @@
+.navigation {
+    background-color: #E95C72;
+    width: 100%;
+    position: sticky; top: 10px;
+}
 .inline-block {
     display: inline-block;
     vertical-align:top; 
@@ -7,12 +12,12 @@
     padding:1%;
     text-align: center;
 }
-.nav{
+nav{
     width: 73%;
     padding: 1%;
-    background-color: grey;
+    background-color: #1B8B8C;
 }
-.ul {
+ul {
     width: 50%;
     margin-left: auto;
     display: inline-block;
@@ -27,7 +32,7 @@
     width: 500px;
     margin: 0 auto;
 }
-.footer {
+footer {
     position: absolute;
     bottom: 0;
     width: 100%;

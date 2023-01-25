@@ -5,7 +5,8 @@
 }
 .inline-block {
     display: inline-block;
-    vertical-align:top; 
+    vertical-align:top;
+    padding: 3px 10px 0px 10px;
 }
 .logo {
     width: 23%;
@@ -16,13 +17,14 @@ nav{
     width: 73%;
     padding: 1%;
     background-color: #1B8B8C;
+    text-align: right;
 }
 ul {
     width: 50%;
     margin-left: auto;
     display: inline-block;
     vertical-align: top;
-    padding: 20px;
+    margin-right: auto;
 }
 .heroImg {
     height: 600px;
@@ -36,7 +38,7 @@ footer {
     position: bottom;
     bottom: 0;
     width: 100%;
-    background-color: #373738;
+    background-color: #E95C72;
     color: black;
     font-family: "Sans";
     flex-shrink: 0;
